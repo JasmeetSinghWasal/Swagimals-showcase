@@ -1,7 +1,8 @@
 # 🛒 Swagimals — E-Commerce Platform
 
-> Full-stack MERN e-commerce platform built and led as a team project.
-> Three separate repositories: Admin UI, Customer Portal, API Server.
+- This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
+- Full-stack MERN e-commerce platform built and led as a team project.
+- Three separate repositories: Admin UI, Customer Portal, API Server.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
