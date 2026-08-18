@@ -39,6 +39,13 @@ Shop by Category and by pet type
 Newsletter
 <img width="1385" height="846" alt="Screenshot 2026-08-17 at 21 07 49" src="https://github.com/user-attachments/assets/3b66587c-2f6f-4a06-9af8-554b3e6cfb4d" />
 
+Newsletter for ADMIN
+<img width="1091" height="338" alt="Screenshot 2026-08-17 at 21 23 35" src="https://github.com/user-attachments/assets/17ca1f13-ccd7-4e78-9ee1-75ba3c50f6a5" />
+
+Newsletter for Customer
+<img width="730" height="400" alt="Screenshot 2026-08-17 at 21 21 16" src="https://github.com/user-attachments/assets/39adbac4-2ae6-42cc-831f-ef25ae7e4681" />
+
+
 All Products with filters applied
  <img width="1384" height="934" alt="Screenshot 2026-08-17 at 21 10 13" src="https://github.com/user-attachments/assets/e7c57a04-ecc1-4776-bc0f-9778923f4b97" />
 
