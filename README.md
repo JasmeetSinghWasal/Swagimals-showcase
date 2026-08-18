@@ -43,7 +43,8 @@ Newsletter for ADMIN
 <img width="1091" height="338" alt="Screenshot 2026-08-17 at 21 23 35" src="https://github.com/user-attachments/assets/17ca1f13-ccd7-4e78-9ee1-75ba3c50f6a5" />
 
 Newsletter for Customer
-<img width="730" height="400" alt="Screenshot 2026-08-17 at 21 21 16" src="https://github.com/user-attachments/assets/39adbac4-2ae6-42cc-831f-ef25ae7e4681" />
+<img width="730" height="400" alt="Screenshot 2026-08-17 at 21 21 16" src="https://github.com/user-attachments/assets/7351f8a6-5093-4878-a8c3-3d08ceadf8c3" />
+
 
 
 All Products with filters applied
