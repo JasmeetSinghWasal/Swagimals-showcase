@@ -1,6 +1,6 @@
+> - This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
 # 🛒 Swagimals — E-Commerce Platform
 
-- This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
 - Full-stack MERN e-commerce platform built and led as a team project.
 - Three separate repositories: Admin UI, Customer Portal, API Server.
 
