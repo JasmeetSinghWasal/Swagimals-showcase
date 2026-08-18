@@ -40,9 +40,12 @@ Newsletter
 <img width="1385" height="846" alt="Screenshot 2026-08-17 at 21 07 49" src="https://github.com/user-attachments/assets/3b66587c-2f6f-4a06-9af8-554b3e6cfb4d" />
 
 Newsletter for ADMIN
-<img width="1091" height="338" alt="Screenshot 2026-08-17 at 21 23 35" src="https://github.com/user-attachments/assets/17ca1f13-ccd7-4e78-9ee1-75ba3c50f6a5" />
+
+<img width="1091" height="338" alt="Screenshot 2026-08-17 at 21 23 35" src="https://github.com/user-attachments/assets/ae8fc148-dae7-4edc-9eef-dcbf2fea6896" />
+
 
 Newsletter for Customer
+
 <img width="730" height="400" alt="Screenshot 2026-08-17 at 21 21 16" src="https://github.com/user-attachments/assets/7351f8a6-5093-4878-a8c3-3d08ceadf8c3" />
 
 
