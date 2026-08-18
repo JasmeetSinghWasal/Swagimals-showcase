@@ -60,8 +60,11 @@ Product Detail
 User Cart page
 <img width="1387" height="602" alt="Screenshot 2026-08-17 at 21 11 24" src="https://github.com/user-attachments/assets/c7a0b5b1-9284-4820-9787-b6f565d23f50" />
 
+PDF generated on successful order placed
+<img width="1340" height="668" alt="Screenshot 2026-08-18 at 00 34 35" src="https://github.com/user-attachments/assets/c0e60270-d1fe-4f3a-8dc9-5ee25c4db04d" />
 
 ### Admin Portal
+- Full customizable sections for the customer including blogs, categories, products, etc.
 - Inventory management dashboard
 - Order tracking and fulfillment
 - Customer management
